@@ -1,0 +1,7 @@
+gc 5 1 0 0 100
+gc 1 7 0.7 0 100
+gc 3 3 0.7 0.7 100
+unload 
+matrix
+binary 0.03
+wave 
